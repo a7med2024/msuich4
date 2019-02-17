@@ -1,6 +1,6 @@
 owner=349906494822547471
-prefix= ca
-game= Type ca help
+prefix= Vi
+game= Type Vi help
 stayinchannel=true
 songinstatus=true 
 token=NTQ0MDg0MjI4Njk0OTk5MDYw.D0F9dQ.776IK52jlKL8JaINHlzYxNvQLh4
